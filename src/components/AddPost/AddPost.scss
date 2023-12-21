@@ -1,0 +1,28 @@
+.new-post {
+  margin-right: 15px;
+}
+.new-post__title {
+}
+.form {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.form__input {
+  font-size: 15px;
+  padding: 5px 10px;
+  border: 1px solid black;
+}
+.form__textarea {
+  font-size: 15px;
+
+  padding: 5px 10px;
+
+  border: 1px solid black;
+}
+.form__btn {
+  font-size: 15px;
+  padding: 10px 20px;
+  background-color: cadetblue;
+}
